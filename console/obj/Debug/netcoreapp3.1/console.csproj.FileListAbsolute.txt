@@ -1,0 +1,11 @@
+/Users/claytonterry/Repo/LearnToCode/console/obj/Debug/netcoreapp3.1/console.csprojAssemblyReference.cache
+/Users/claytonterry/Repo/LearnToCode/console/obj/Debug/netcoreapp3.1/console.AssemblyInfoInputs.cache
+/Users/claytonterry/Repo/LearnToCode/console/obj/Debug/netcoreapp3.1/console.AssemblyInfo.cs
+/Users/claytonterry/Repo/LearnToCode/console/bin/Debug/netcoreapp3.1/console
+/Users/claytonterry/Repo/LearnToCode/console/bin/Debug/netcoreapp3.1/console.deps.json
+/Users/claytonterry/Repo/LearnToCode/console/bin/Debug/netcoreapp3.1/console.runtimeconfig.json
+/Users/claytonterry/Repo/LearnToCode/console/bin/Debug/netcoreapp3.1/console.runtimeconfig.dev.json
+/Users/claytonterry/Repo/LearnToCode/console/bin/Debug/netcoreapp3.1/console.dll
+/Users/claytonterry/Repo/LearnToCode/console/bin/Debug/netcoreapp3.1/console.pdb
+/Users/claytonterry/Repo/LearnToCode/console/obj/Debug/netcoreapp3.1/console.dll
+/Users/claytonterry/Repo/LearnToCode/console/obj/Debug/netcoreapp3.1/console.pdb

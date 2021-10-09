@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/claytonterry/Repo/LearnToCode/console/console.csproj": {}
+  },
+  "projects": {
+    "/Users/claytonterry/Repo/LearnToCode/console/console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/claytonterry/Repo/LearnToCode/console/console.csproj",
+        "projectName": "console",
+        "projectPath": "/Users/claytonterry/Repo/LearnToCode/console/console.csproj",
+        "packagesPath": "/Users/claytonterry/.nuget/packages/",
+        "outputPath": "/Users/claytonterry/Repo/LearnToCode/console/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/claytonterry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
