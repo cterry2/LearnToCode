@@ -1,0 +1,11 @@
+/Users/claytonterry/Repo/newProject/ConsoleApplication/bin/Debug/netcoreapp3.1/ConsoleApplication
+/Users/claytonterry/Repo/newProject/ConsoleApplication/bin/Debug/netcoreapp3.1/ConsoleApplication.deps.json
+/Users/claytonterry/Repo/newProject/ConsoleApplication/bin/Debug/netcoreapp3.1/ConsoleApplication.runtimeconfig.json
+/Users/claytonterry/Repo/newProject/ConsoleApplication/bin/Debug/netcoreapp3.1/ConsoleApplication.runtimeconfig.dev.json
+/Users/claytonterry/Repo/newProject/ConsoleApplication/bin/Debug/netcoreapp3.1/ConsoleApplication.dll
+/Users/claytonterry/Repo/newProject/ConsoleApplication/bin/Debug/netcoreapp3.1/ConsoleApplication.pdb
+/Users/claytonterry/Repo/newProject/ConsoleApplication/obj/Debug/netcoreapp3.1/ConsoleApplication.csprojAssemblyReference.cache
+/Users/claytonterry/Repo/newProject/ConsoleApplication/obj/Debug/netcoreapp3.1/ConsoleApplication.AssemblyInfoInputs.cache
+/Users/claytonterry/Repo/newProject/ConsoleApplication/obj/Debug/netcoreapp3.1/ConsoleApplication.AssemblyInfo.cs
+/Users/claytonterry/Repo/newProject/ConsoleApplication/obj/Debug/netcoreapp3.1/ConsoleApplication.dll
+/Users/claytonterry/Repo/newProject/ConsoleApplication/obj/Debug/netcoreapp3.1/ConsoleApplication.pdb
